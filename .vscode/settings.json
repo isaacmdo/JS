@@ -1,0 +1,14 @@
+{
+  "terminal.integrated.automationShell.windows": "",
+  "emmet.excludeLanguages": [
+
+    "markdown"
+  ],
+  "npm.exclude": "",
+  "files.watcherExclude": {
+    "**/node_modules/**": false
+  },
+  "search.exclude": {
+    "**/node_modules": true
+  }
+}
